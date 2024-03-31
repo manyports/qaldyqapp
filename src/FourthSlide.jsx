@@ -13,11 +13,11 @@ function FourthSlide(){
                 на денежное вознаграждение или другие <br />
                 привилегии от наших партнеров.<br />
             </p>
-            <img src=".../iphonetrans.svg" alt="iphone"/>
+            <img src="../iphonetrans.svg" alt="iphone"/>
             </div>
             <hr size="3px" width="87.4%" color="#D9D9D9" align="center" />
             <div className="bottom">
-            <img src=".../iphoneinfo.svg" alt="iphoneinfo"/>
+            <img src="../iphoneinfo.svg" alt="iphoneinfo"/>
             <p id="bot-text-fourth-slide">
                 Qaldyq также предоставляет владельцам<br />
                 информацию о том, какие типы мусора<br />
