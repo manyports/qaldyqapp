@@ -1,0 +1,267 @@
+header{
+    top:0;
+    position:fixed;
+    width: 100%;
+    background-color: #FFFF;
+}
+
+.navbar{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+
+}
+
+.navbar a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #213547;
+    margin-left: 2vw;
+}
+
+.navbar button{
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    background: #7CBF42;
+    border-radius: 20px;
+    width: 6.5vw;
+    height: 3vw;
+    color:#FFFF;
+    border-color:transparent;
+    margin-left: 2vw;
+}
+
+.header-container{
+    display: flex;
+    justify-content: center;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #7CBF42;
+    border-radius: 100px;
+}
+::-webkit-scrollbar-track {
+    background-color: #f1f1f1;
+}
+
+#main-text-bl1{
+    padding-top: 189px;
+    display: flex;
+    font-size: 47.57px;
+    justify-content: space-around;
+    line-height: 55px;
+}
+#con-block1{
+    font-size: 33.39px;
+    background-color: #E5F1D9;
+    margin-left: 5%;
+    border-radius: 89.96px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 89%;
+}
+#con-block1 p{
+    margin-left: 10%;
+}
+#top-text-bl1{
+    margin-top: 8.89%;
+    font-size: 44.86px;
+}
+#bot-text-bl1{
+    margin-top: -1%;
+    font-size: 29.57px;
+}
+#Contact_us{
+    display: flex;
+}
+
+#au-content{
+    overflow: hidden;
+}
+#bins{
+    display: flex;
+    margin-left: 54%;
+    margin-top: -45%;
+}
+
+#welcome-p{
+    display: flex;
+}
+
+#au-container{
+    display: flex;
+    justify-content: center;
+}
+
+#au-content{
+    width: 95%;
+}
+.us-container{
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    background-color: #E5F1D9;
+    border-top-left-radius: 89.96px;
+    border-top-right-radius: 89.96px;
+}
+
+.p-container{
+    display: flex;
+    margin-left: 5%;
+    flex-direction: column;
+}
+
+#t-text{
+    margin-bottom: 0;
+    font-size: 30.11px;
+}
+
+#b-text{
+    margin-top: 0;
+    font-size: 20.57px;
+}
+
+#pr-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.products1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.products1 p{
+    font-size: 27px;
+}
+.products2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+
+.products2 p{
+    font-size: 27px;
+}
+
+#image1{
+    display: flex;
+    width: 50%;
+}
+#solar_panel{
+    display: flex;
+    width: 40%;
+}
+
+.div-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#main-text{
+    display: flex;
+    justify-content: center;
+}
+
+#content{
+    display: flex;
+    flex-direction: column;
+}
+
+#main-text{
+    font-size: 50px;
+}
+
+#block1 p{
+    font-size: 20px;
+}
+
+#block1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #E5F1D9;
+    border-radius: 40.96px;
+    width:29vw;
+}
+
+#block2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #E5F1D9;
+    border-radius: 40.96px;
+    width:24vw;
+}
+
+
+
+#bot-text-fourth-slide{
+    display: flex;
+    justify-content: flex-end;
+    font-size: 27px;
+}
+
+#top-text-fourth-slide{
+    font-size: 27px;
+}
+
+#cont5ent{
+    padding-top:35vh;
+    padding-bottom:15vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.top{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.bottom{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#bins-text{
+    display: flex;
+    justify-content: center;
+    font-size: 27px;
+}
+
+#offer{
+    display: flex;
+    margin-left: 4vw;
+    font-size: 20px;
+}
+
+.img-container{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#app-content{
+    display: flex;
+    font-size: 33.39px;
+}
+#application_photo{
+    margin-left: 6.3%;
+
+}
+#text-fifth-slide{
+    margin-top: 5%;
+    margin-left: 5.4%;
+
+}
+
+html{
+    scroll-behavior: smooth;
+}
