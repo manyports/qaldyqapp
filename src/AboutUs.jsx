@@ -21,10 +21,10 @@ function AboutUs() {
                         которые станут вашим надежным помощником в<br/>
                         сортировке отходов.
         </p>
-        <a id="Contact_us" href="https://t.me/qaldyqbot" target="_blank"> <img src="public/Contact_us.svg" alt="Contact_us"/> </a>
+        <a id="Contact_us" href="https://t.me/qaldyqbot" target="_blank"> <img src="../Contact_us.svg" alt="Contact_us"/> </a>
         </div>
         <div className="cans-container">
-            <img src="public/cans.svg" alt="cans"/>
+            <img src="../cans.svg" alt="cans"/>
         </div>
       </div>
     </div>

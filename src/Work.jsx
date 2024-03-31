@@ -5,7 +5,7 @@ function Work() {
         <p id="main-text"><b>Qaldyq это:</b></p>
         <div className="div-container">
           <div id="block1">  
-            <img src="public/Recycle.svg" alt="Recycle Icon" />
+            <img src="../Recycle.svg" alt="Recycle Icon" />
             <p id="text">
               <b>Популяризация переработки</b>
               <br />
@@ -17,7 +17,7 @@ function Work() {
             </p>
           </div>
           <div id="block2">
-            <img src="public/Shopping Cart.svg" alt="Shopping Cart Icon" />
+            <img src="../Shopping Cart.svg" alt="Shopping Cart Icon" />
             <p>
               <b>Мотивация людей</b>
               <br />

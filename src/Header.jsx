@@ -5,7 +5,7 @@ function Header() {
         <div className="header-container">
         <header>
             <div className="navbar">
-                <img src="public/logo.svg" alt="logo" />
+                <img src="../logo.svg" alt="logo" />
                 <a href="#au-container">О нас</a>
                 <a href="#pr-content">Продукты</a>
                 <a href="#w-container">Работа</a>

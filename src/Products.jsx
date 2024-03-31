@@ -12,7 +12,7 @@ function Products() {
                 категорию мусора для <br />
                 сортировки. <br />
             </p>
-            <img src="public/Group 1.svg" alt="image1" id="image1" />
+            <img src="../Group 1.svg" alt="image1" id="image1" />
             </div>
             <div className="products2">
             <p id="bot-text-second-slide">
@@ -22,7 +22,7 @@ function Products() {
                 чистой, но и обеспечивает независимое <br />
                 энергоснабжение в любое время суток. <br />
             </p>
-            <img src="public/solar_panel.svg" alt="solar_panel" id="solar_panel" />
+            <img src="../solar_panel.svg" alt="solar_panel" id="solar_panel" />
             </div>
         </div>
     );
